@@ -1,5 +1,4 @@
 from tkinter import *
-from tkinter import font
 
 root = Tk(screenName="Calculator")
 root.title("Calculator by ZiON")
